@@ -412,6 +412,7 @@ eltex-co.ru
 eltex.ru
 extern.kontur.ru
 focus.kontur.ru
+ktalk.ru
 garant.ru
 base.garant.ru
 consultant.ru
