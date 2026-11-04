@@ -112,6 +112,7 @@ webmoney.ru
 yoomoney.ru
 zenit.ru
 e-disclosure.ru      # issue #6
+009.xn--p1ai         # issue #14
 
 # ==================================================================
 # 2. Госуслуги и госорганы
