@@ -112,6 +112,7 @@ webmoney.ru
 yoomoney.ru
 zenit.ru
 e-disclosure.ru      # issue #6
+en-kom.ru            # issue #12
 
 # ==================================================================
 # 2. Госуслуги и госорганы
